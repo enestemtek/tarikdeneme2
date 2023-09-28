@@ -1,0 +1,15 @@
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/bin/Debug/net7.0/tarikdeneme
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/bin/Debug/net7.0/tarikdeneme.deps.json
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/bin/Debug/net7.0/tarikdeneme.runtimeconfig.json
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/bin/Debug/net7.0/tarikdeneme.dll
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/bin/Debug/net7.0/tarikdeneme.pdb
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/tarikdeneme.csproj.AssemblyReference.cache
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/tarikdeneme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/tarikdeneme.AssemblyInfoInputs.cache
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/tarikdeneme.AssemblyInfo.cs
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/tarikdeneme.csproj.CoreCompileInputs.cache
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/tarikdeneme.dll
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/refint/tarikdeneme.dll
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/tarikdeneme.pdb
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/tarikdeneme.genruntimeconfig.cache
+/Users/enestemtek/Projects/tarikdeneme/tarikdeneme/obj/Debug/net7.0/ref/tarikdeneme.dll
